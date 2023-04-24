@@ -1,0 +1,6 @@
+/home/robert/src/ccwpgtb/src/main/java/com/hds/ccwpgtb/commands/ReportCommand.java
+/home/robert/src/ccwpgtb/src/main/java/com/hds/ccwpgtb/commands/SlashCommand.java
+/home/robert/src/ccwpgtb/src/main/java/com/hds/ccwpgtb/CowdudeBot.java
+/home/robert/src/ccwpgtb/src/main/java/com/hds/ccwpgtb/listeners/SlashCommandListener.java
+/home/robert/src/ccwpgtb/src/main/java/com/hds/ccwpgtb/GlobalCommandRegistrar.java
+/home/robert/src/ccwpgtb/src/main/java/com/hds/ccwpgtb/commands/PingCommand.java

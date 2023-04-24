@@ -1,0 +1,6 @@
+com/hds/ccwpgtb/GlobalCommandRegistrar.class
+com/hds/ccwpgtb/CowdudeBot.class
+com/hds/ccwpgtb/commands/SlashCommand.class
+com/hds/ccwpgtb/commands/PingCommand.class
+com/hds/ccwpgtb/listeners/SlashCommandListener.class
+com/hds/ccwpgtb/commands/ReportCommand.class

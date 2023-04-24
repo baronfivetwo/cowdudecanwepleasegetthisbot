@@ -1,0 +1,30 @@
+{
+    "name": "report",
+    "description": "Reports a rule breaker",
+    "options": [
+        {
+            "name": "id",
+            "description": "Id of the offender",
+            "type": 3,
+            "required": true
+        },
+        {
+            "name": "deed",
+            "description": "Deed or offense",
+            "type": 3,
+            "required": true
+        },
+        {
+            "name": "punishment",
+            "description": "Proposed punishment",
+            "type": 3,
+            "required": true
+        },
+        {
+            "name": "evidence",
+            "description": "url to the evidence",
+            "type": 3,
+            "required": false
+        }
+    ]
+}
